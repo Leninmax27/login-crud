@@ -16,7 +16,8 @@ Usuario:**admin**
 Contraseña: **12345**
 5. acceder al panel CRUD 
 
-## 🧱 Tecnologías utilizadas
+
+Tecnologías utilizadas
 
 - HTML
 - CSS
